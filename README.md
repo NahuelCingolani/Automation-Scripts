@@ -14,7 +14,7 @@ This repository contains a series of Python scripts developed to automate data h
 | `Aircall test.py` | Testing script for Aircall API integration and data export validation. | requests, pandas |
 | `ApiRequestNahuel 1.py` | Base template for handling authenticated API requests with headers. | requests, json |
 | `import requests 1.py` | Initial script likely used to test HTTP request logic using the requests library. | requests |
-| `  Aircall 1.py` | This script is a Python-based web application using Flask that automates outbound voice calls via the Aircall API. | requests, pandas, flask |
+| `Aircall 1.py` | This script is a Python-based web application using Flask that automates outbound voice calls via the Aircall API. | requests, pandas, flask |
 
 ## ⚙️ Setup
 To use these scripts, install the required libraries:
