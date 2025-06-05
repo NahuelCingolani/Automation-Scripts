@@ -15,6 +15,7 @@ This repository contains a series of Python scripts developed to automate data h
 | `ApiRequestNahuel 1.py` | Base template for handling authenticated API requests with headers. | requests, json |
 | `import requests 1.py` | Initial script likely used to test HTTP request logic using the requests library. | requests |
 | `Aircall 1.py` | This script is a Python-based web application using Flask that automates outbound voice calls via the Aircall API. | requests, pandas, flask |
+| `Sales Analysis Python.py` | Analyzes product sales from a CSV file, calculating total sales, revenue by category (sorted), top-selling product, and exportable summary. | csv |
 
 ## ⚙️ Setup
 To use these scripts, install the required libraries:
